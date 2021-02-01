@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164214416374",
+    "project_id": "ayesha-idn-school-project",
+    "storage_bucket": "ayesha-idn-school-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164214416374:android:ee26ef5d36895afb6f9dd7",
+        "android_client_info": {
+          "package_name": "com.ayeshaazeema.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164214416374-sbqhtlckk2gl70co4a5ddrvvqf7f8ii8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayeshaazeema.authapp",
+            "certificate_hash": "02f555f0c88fd9e32d03860f51a496ed1fe47459"
+          }
+        },
+        {
+          "client_id": "164214416374-p77ht3rfl020ph8852r1ardccv7nj1uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAxpIvlCFMQC7Z-oA8NL46RpZ6qGAN8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164214416374-p77ht3rfl020ph8852r1ardccv7nj1uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
